@@ -1,5 +1,5 @@
 # MyNotebook
-
+1
 查看数据库版本：未登录前：mysql --version 或 mysql -V（大写的V） 登录后：select version();
 登录MySQL：mysql -u 用户名 -p
 启动MySQL：net start mysql
